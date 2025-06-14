@@ -1,0 +1,10 @@
+displayName: "Tonvara planet"
+name: "tonv"
+description: "New planet and... jam buildings"
+author: "[red]appleee"
+
+version: 0.0
+minGameVersion: 147
+
+main: "Tonvara.Tonvara"
+java: true
